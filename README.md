@@ -13,7 +13,7 @@ Este proyecto es una aplicación simple de Spring Boot que suma dos números. La
 Para clonar este repositorio, abre una terminal y ejecuta el siguiente comando:
 
 ```bash
-git clone https://github.com/tu_usuario/sumador.git
+git clone https://github.com/Daniielpro/SumadorJava.git
 
 Construir Y Ejecutar la Aplicacion
 
