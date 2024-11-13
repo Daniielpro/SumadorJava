@@ -12,8 +12,8 @@ This project is a simple Spring Boot application that adds two numbers together.
 ## Clone Repository
 
 To clone this repository, open a terminal and run the following command:
-
 ``bash
+
 git clone https://github.com/Daniielpro/SumadorJava.git
 
  
